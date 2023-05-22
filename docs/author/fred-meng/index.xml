@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fred Meng on 梦想的缝隙 | The Gap of Dream</title>
+    <link>https://fred-meng.github.io/blog/author/fred-meng/</link>
+    <description>Recent content in Fred Meng on 梦想的缝隙 | The Gap of Dream</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 22 May 2023 15:30:10 +0800</lastBuildDate><atom:link href="https://fred-meng.github.io/blog/author/fred-meng/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Scrum团队</title>
+      <link>https://fred-meng.github.io/blog/article/scrumpatterns/scrumteam/</link>
+      <pubDate>Mon, 22 May 2023 15:30:10 +0800</pubDate>
+      
+      <guid>https://fred-meng.github.io/blog/article/scrumpatterns/scrumteam/</guid>
+      <description>一个由生产者和支持者组成的团队，他们紧密合作，在守护者的护航下，追求一个共同的愿景并确保实现。 &amp;hellip;你们有一个面向客户的产品愿景。</description>
+    </item>
+    
+  </channel>
+</rss>

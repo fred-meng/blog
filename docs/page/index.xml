@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on 梦想的缝隙 | The Gap of Dream</title>
+    <link>https://fred-meng.github.io/blog/page/</link>
+    <description>Recent content in Pages on 梦想的缝隙 | The Gap of Dream</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://fred-meng.github.io/blog/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>这里会有什么？</title>
+      <link>https://fred-meng.github.io/blog/page/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fred-meng.github.io/blog/page/about/</guid>
+      <description>永远留出缝隙，不论是事业、生活、学习、成长还是旅途，它是梦想照进现实的一种可能的实现方式。</description>
+    </item>
+    
+  </channel>
+</rss>
