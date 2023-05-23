@@ -31,7 +31,13 @@
                 href="https://fred-meng.github.io/blog/categories/"
                 />
   </url><url>
+    <loc>https://fred-meng.github.io/blog/tags/effective-team/</loc>
+    <lastmod>2023-05-22T15:30:10+08:00</lastmod>
+  </url><url>
     <loc>https://fred-meng.github.io/blog/author/fred-meng/</loc>
+    <lastmod>2023-05-22T15:30:10+08:00</lastmod>
+  </url><url>
+    <loc>https://fred-meng.github.io/blog/tags/pattern/</loc>
     <lastmod>2023-05-22T15:30:10+08:00</lastmod>
   </url><url>
     <loc>https://fred-meng.github.io/blog/tags/scrum/</loc>
@@ -55,9 +61,6 @@
                 hreflang="zh-cn"
                 href="https://fred-meng.github.io/blog/tags/"
                 />
-  </url><url>
-    <loc>https://fred-meng.github.io/blog/tags/team/</loc>
-    <lastmod>2023-05-22T15:30:10+08:00</lastmod>
   </url><url>
     <loc>https://fred-meng.github.io/blog/</loc>
     <lastmod>2023-05-22T15:30:10+08:00</lastmod>
