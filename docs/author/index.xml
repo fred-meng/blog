@@ -15,23 +15,5 @@
       <description></description>
     </item>
     
-    <item>
-      <title>Lednerb</title>
-      <link>https://fred-meng.github.io/blog/author/lednerb/</link>
-      <pubDate>Mon, 01 Nov 2021 18:01:26 +0100</pubDate>
-      
-      <guid>https://fred-meng.github.io/blog/author/lednerb/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Edward Snowden</title>
-      <link>https://fred-meng.github.io/blog/author/edward-snowden/</link>
-      <pubDate>Mon, 01 Nov 2021 13:01:14 +0100</pubDate>
-      
-      <guid>https://fred-meng.github.io/blog/author/edward-snowden/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>
