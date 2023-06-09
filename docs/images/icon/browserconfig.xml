@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
+{{- $iconBaseUrl := .Site.BaseURL | relLangURL -}}
+{{- $iconBaseUrl = (print (path.Join $iconBaseUrl "/images/icon/")) -}}
 <browserconfig>
     <msapplication>
         <tile>
-            <square150x150logo src="/images/icon/mstile-150x150.png"/>
+            <square150x150logo src={{ printf " %s%s" $iconBaseUrl "mstile-150x150.png" }}/>
             <TileColor>#da532c</TileColor>
         </tile>
     </msapplication>
