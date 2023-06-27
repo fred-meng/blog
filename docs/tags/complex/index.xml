@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>complex on 梦想的缝隙 | The Gap of Dream</title>
+    <link>https://fred-meng.github.io/blog/tags/complex/</link>
+    <description>Recent content in complex on 梦想的缝隙 | The Gap of Dream</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 27 Jun 2023 10:44:09 +0800</lastBuildDate><atom:link href="https://fred-meng.github.io/blog/tags/complex/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cynefin Framework | Cynefin 框架</title>
+      <link>https://fred-meng.github.io/blog/article/cynefin-framework/</link>
+      <pubDate>Tue, 27 Jun 2023 10:44:09 +0800</pubDate>
+      
+      <guid>https://fred-meng.github.io/blog/article/cynefin-framework/</guid>
+      <description>Cynefin框架 (/ˈkʌnɪvɪn/ KUN-iv-in) 是由Dave Snowden在1999年服务于IBM时创建，用于帮助人们在复杂的环境中感知问题并作出</description>
+    </item>
+    
+  </channel>
+</rss>

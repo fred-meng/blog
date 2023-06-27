@@ -3,10 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://fred-meng.github.io/blog/article/</loc>
-    <lastmod>2023-06-27T10:31:25+08:00</lastmod>
+    <lastmod>2023-06-27T10:44:09+08:00</lastmod>
   </url><url>
     <loc>https://fred-meng.github.io/blog/author/</loc>
-    <lastmod>2023-06-27T10:31:25+08:00</lastmod>
+    <lastmod>2023-06-27T10:44:09+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -19,7 +19,7 @@
                 />
   </url><url>
     <loc>https://fred-meng.github.io/blog/categories/</loc>
-    <lastmod>2023-06-27T10:31:25+08:00</lastmod>
+    <lastmod>2023-06-27T10:44:09+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -31,20 +31,23 @@
                 href="https://fred-meng.github.io/blog/categories/"
                 />
   </url><url>
-    <loc>https://fred-meng.github.io/blog/tags/coach/</loc>
-    <lastmod>2023-06-27T10:31:25+08:00</lastmod>
+    <loc>https://fred-meng.github.io/blog/tags/complex/</loc>
+    <lastmod>2023-06-27T10:44:09+08:00</lastmod>
   </url><url>
-    <loc>https://fred-meng.github.io/blog/tags/dialouge/</loc>
-    <lastmod>2023-06-27T10:31:25+08:00</lastmod>
+    <loc>https://fred-meng.github.io/blog/tags/cynefin/</loc>
+    <lastmod>2023-06-27T10:44:09+08:00</lastmod>
+  </url><url>
+    <loc>https://fred-meng.github.io/blog/article/cynefin-framework/</loc>
+    <lastmod>2023-06-27T10:44:09+08:00</lastmod>
+  </url><url>
+    <loc>https://fred-meng.github.io/blog/tags/decision/</loc>
+    <lastmod>2023-06-27T10:44:09+08:00</lastmod>
   </url><url>
     <loc>https://fred-meng.github.io/blog/author/fred-meng/</loc>
-    <lastmod>2023-06-27T10:31:25+08:00</lastmod>
-  </url><url>
-    <loc>https://fred-meng.github.io/blog/tags/powerful-question/</loc>
-    <lastmod>2023-06-27T10:31:25+08:00</lastmod>
+    <lastmod>2023-06-27T10:44:09+08:00</lastmod>
   </url><url>
     <loc>https://fred-meng.github.io/blog/tags/</loc>
-    <lastmod>2023-06-27T10:31:25+08:00</lastmod>
+    <lastmod>2023-06-27T10:44:09+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -56,17 +59,14 @@
                 href="https://fred-meng.github.io/blog/tags/"
                 />
   </url><url>
-    <loc>https://fred-meng.github.io/blog/tags/%E5%AF%B9%E8%AF%9D/</loc>
-    <lastmod>2023-06-27T10:31:25+08:00</lastmod>
+    <loc>https://fred-meng.github.io/blog/tags/%E5%A4%8D%E6%9D%82%E7%90%86%E8%AE%BA/</loc>
+    <lastmod>2023-06-27T10:44:09+08:00</lastmod>
   </url><url>
-    <loc>https://fred-meng.github.io/blog/tags/%E6%95%99%E7%BB%83/</loc>
-    <lastmod>2023-06-27T10:31:25+08:00</lastmod>
-  </url><url>
-    <loc>https://fred-meng.github.io/blog/article/4-planning-question/</loc>
-    <lastmod>2023-06-27T10:31:25+08:00</lastmod>
+    <loc>https://fred-meng.github.io/blog/tags/%E5%86%B3%E7%AD%96/</loc>
+    <lastmod>2023-06-27T10:44:09+08:00</lastmod>
   </url><url>
     <loc>https://fred-meng.github.io/blog/</loc>
-    <lastmod>2023-06-27T10:31:25+08:00</lastmod>
+    <lastmod>2023-06-27T10:44:09+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -78,10 +78,28 @@
                 href="https://fred-meng.github.io/blog/"
                 />
   </url><url>
-    <loc>https://fred-meng.github.io/blog/tags/%E5%BC%BA%E6%9C%89%E5%8A%9B%E5%8F%91%E9%97%AE/</loc>
+    <loc>https://fred-meng.github.io/blog/categories/%E7%9F%A5%E8%AF%86%E7%A9%BA%E9%97%B4/</loc>
+    <lastmod>2023-06-27T10:44:09+08:00</lastmod>
+  </url><url>
+    <loc>https://fred-meng.github.io/blog/tags/coach/</loc>
     <lastmod>2023-06-27T10:31:25+08:00</lastmod>
   </url><url>
-    <loc>https://fred-meng.github.io/blog/categories/%E7%9F%A5%E8%AF%86%E7%A9%BA%E9%97%B4/</loc>
+    <loc>https://fred-meng.github.io/blog/tags/dialouge/</loc>
+    <lastmod>2023-06-27T10:31:25+08:00</lastmod>
+  </url><url>
+    <loc>https://fred-meng.github.io/blog/tags/powerful-question/</loc>
+    <lastmod>2023-06-27T10:31:25+08:00</lastmod>
+  </url><url>
+    <loc>https://fred-meng.github.io/blog/tags/%E5%AF%B9%E8%AF%9D/</loc>
+    <lastmod>2023-06-27T10:31:25+08:00</lastmod>
+  </url><url>
+    <loc>https://fred-meng.github.io/blog/tags/%E6%95%99%E7%BB%83/</loc>
+    <lastmod>2023-06-27T10:31:25+08:00</lastmod>
+  </url><url>
+    <loc>https://fred-meng.github.io/blog/article/4-planning-question/</loc>
+    <lastmod>2023-06-27T10:31:25+08:00</lastmod>
+  </url><url>
+    <loc>https://fred-meng.github.io/blog/tags/%E5%BC%BA%E6%9C%89%E5%8A%9B%E5%8F%91%E9%97%AE/</loc>
     <lastmod>2023-06-27T10:31:25+08:00</lastmod>
   </url><url>
     <loc>https://fred-meng.github.io/blog/tags/agile-practice/</loc>
