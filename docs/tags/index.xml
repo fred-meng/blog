@@ -1,17 +1,143 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on 梦想的缝隙 | The Gap of Dream</title>
+    <title>Tags on 梦想的缝隙s | The Gaps of Dream</title>
     <link>https://fred-meng.github.io/blog/tags/</link>
-    <description>Recent content in Tags on 梦想的缝隙 | The Gap of Dream</description>
+    <description>Recent content in Tags on 梦想的缝隙s | The Gaps of Dream</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 27 Jun 2023 16:31:14 +0800</lastBuildDate><atom:link href="https://fred-meng.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 Jun 2023 19:31:29 +0800</lastBuildDate><atom:link href="https://fred-meng.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>life</title>
+      <link>https://fred-meng.github.io/blog/tags/life/</link>
+      <pubDate>Tue, 27 Jun 2023 19:31:29 +0800</pubDate>
+      
+      <guid>https://fred-meng.github.io/blog/tags/life/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>continuous improvement</title>
+      <link>https://fred-meng.github.io/blog/tags/continuous-improvement/</link>
+      <pubDate>Tue, 27 Jun 2023 18:39:17 +0800</pubDate>
+      
+      <guid>https://fred-meng.github.io/blog/tags/continuous-improvement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gemba</title>
+      <link>https://fred-meng.github.io/blog/tags/gemba/</link>
+      <pubDate>Tue, 27 Jun 2023 18:39:17 +0800</pubDate>
+      
+      <guid>https://fred-meng.github.io/blog/tags/gemba/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>go see</title>
+      <link>https://fred-meng.github.io/blog/tags/go-see/</link>
+      <pubDate>Tue, 27 Jun 2023 18:39:17 +0800</pubDate>
+      
+      <guid>https://fred-meng.github.io/blog/tags/go-see/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kaizen</title>
+      <link>https://fred-meng.github.io/blog/tags/kaizen/</link>
+      <pubDate>Tue, 27 Jun 2023 18:39:17 +0800</pubDate>
+      
+      <guid>https://fred-meng.github.io/blog/tags/kaizen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>持续改进</title>
+      <link>https://fred-meng.github.io/blog/tags/%E6%8C%81%E7%BB%AD%E6%94%B9%E8%BF%9B/</link>
+      <pubDate>Tue, 27 Jun 2023 18:39:17 +0800</pubDate>
+      
+      <guid>https://fred-meng.github.io/blog/tags/%E6%8C%81%E7%BB%AD%E6%94%B9%E8%BF%9B/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>改善</title>
+      <link>https://fred-meng.github.io/blog/tags/%E6%94%B9%E5%96%84/</link>
+      <pubDate>Tue, 27 Jun 2023 18:39:17 +0800</pubDate>
+      
+      <guid>https://fred-meng.github.io/blog/tags/%E6%94%B9%E5%96%84/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>现地查看</title>
+      <link>https://fred-meng.github.io/blog/tags/%E7%8E%B0%E5%9C%B0%E6%9F%A5%E7%9C%8B/</link>
+      <pubDate>Tue, 27 Jun 2023 18:39:17 +0800</pubDate>
+      
+      <guid>https://fred-meng.github.io/blog/tags/%E7%8E%B0%E5%9C%B0%E6%9F%A5%E7%9C%8B/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>agile</title>
       <link>https://fred-meng.github.io/blog/tags/agile/</link>
-      <pubDate>Tue, 27 Jun 2023 16:31:14 +0800</pubDate>
+      <pubDate>Tue, 27 Jun 2023 18:27:05 +0800</pubDate>
       
       <guid>https://fred-meng.github.io/blog/tags/agile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>agile coach</title>
+      <link>https://fred-meng.github.io/blog/tags/agile-coach/</link>
+      <pubDate>Tue, 27 Jun 2023 18:27:05 +0800</pubDate>
+      
+      <guid>https://fred-meng.github.io/blog/tags/agile-coach/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>career</title>
+      <link>https://fred-meng.github.io/blog/tags/career/</link>
+      <pubDate>Tue, 27 Jun 2023 18:27:05 +0800</pubDate>
+      
+      <guid>https://fred-meng.github.io/blog/tags/career/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>coach</title>
+      <link>https://fred-meng.github.io/blog/tags/coach/</link>
+      <pubDate>Tue, 27 Jun 2023 18:27:05 +0800</pubDate>
+      
+      <guid>https://fred-meng.github.io/blog/tags/coach/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>发展路径</title>
+      <link>https://fred-meng.github.io/blog/tags/%E5%8F%91%E5%B1%95%E8%B7%AF%E5%BE%84/</link>
+      <pubDate>Tue, 27 Jun 2023 18:27:05 +0800</pubDate>
+      
+      <guid>https://fred-meng.github.io/blog/tags/%E5%8F%91%E5%B1%95%E8%B7%AF%E5%BE%84/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>教练成长</title>
+      <link>https://fred-meng.github.io/blog/tags/%E6%95%99%E7%BB%83%E6%88%90%E9%95%BF/</link>
+      <pubDate>Tue, 27 Jun 2023 18:27:05 +0800</pubDate>
+      
+      <guid>https://fred-meng.github.io/blog/tags/%E6%95%99%E7%BB%83%E6%88%90%E9%95%BF/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>敏捷教练</title>
+      <link>https://fred-meng.github.io/blog/tags/%E6%95%8F%E6%8D%B7%E6%95%99%E7%BB%83/</link>
+      <pubDate>Tue, 27 Jun 2023 18:27:05 +0800</pubDate>
+      
+      <guid>https://fred-meng.github.io/blog/tags/%E6%95%8F%E6%8D%B7%E6%95%99%E7%BB%83/</guid>
       <description></description>
     </item>
     
@@ -138,15 +264,6 @@
       <pubDate>Tue, 27 Jun 2023 10:44:09 +0800</pubDate>
       
       <guid>https://fred-meng.github.io/blog/tags/%E5%86%B3%E7%AD%96/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>coach</title>
-      <link>https://fred-meng.github.io/blog/tags/coach/</link>
-      <pubDate>Tue, 27 Jun 2023 10:31:25 +0800</pubDate>
-      
-      <guid>https://fred-meng.github.io/blog/tags/coach/</guid>
       <description></description>
     </item>
     

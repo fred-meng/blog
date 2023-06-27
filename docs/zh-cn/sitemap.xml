@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://fred-meng.github.io/blog/tags/agile/</loc>
-    <lastmod>2023-06-27T16:31:14+08:00</lastmod>
+    <loc>https://fred-meng.github.io/blog/article/forever-life/</loc>
+    <lastmod>2023-06-27T19:31:29+08:00</lastmod>
   </url><url>
     <loc>https://fred-meng.github.io/blog/article/</loc>
-    <lastmod>2023-06-27T16:31:14+08:00</lastmod>
+    <lastmod>2023-06-27T19:31:29+08:00</lastmod>
   </url><url>
     <loc>https://fred-meng.github.io/blog/author/</loc>
-    <lastmod>2023-06-27T16:31:14+08:00</lastmod>
+    <lastmod>2023-06-27T19:31:29+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -22,7 +22,7 @@
                 />
   </url><url>
     <loc>https://fred-meng.github.io/blog/categories/</loc>
-    <lastmod>2023-06-27T16:31:14+08:00</lastmod>
+    <lastmod>2023-06-27T19:31:29+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -35,16 +35,13 @@
                 />
   </url><url>
     <loc>https://fred-meng.github.io/blog/author/fred-meng/</loc>
-    <lastmod>2023-06-27T16:31:14+08:00</lastmod>
+    <lastmod>2023-06-27T19:31:29+08:00</lastmod>
   </url><url>
-    <loc>https://fred-meng.github.io/blog/tags/get-hands-dirty/</loc>
-    <lastmod>2023-06-27T16:31:14+08:00</lastmod>
-  </url><url>
-    <loc>https://fred-meng.github.io/blog/tags/practices/</loc>
-    <lastmod>2023-06-27T16:31:14+08:00</lastmod>
+    <loc>https://fred-meng.github.io/blog/tags/life/</loc>
+    <lastmod>2023-06-27T19:31:29+08:00</lastmod>
   </url><url>
     <loc>https://fred-meng.github.io/blog/tags/</loc>
-    <lastmod>2023-06-27T16:31:14+08:00</lastmod>
+    <lastmod>2023-06-27T19:31:29+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -57,13 +54,10 @@
                 />
   </url><url>
     <loc>https://fred-meng.github.io/blog/categories/%E5%AF%B9%E8%AF%9D/</loc>
-    <lastmod>2023-06-27T16:31:14+08:00</lastmod>
-  </url><url>
-    <loc>https://fred-meng.github.io/blog/article/refuse-new-practices/</loc>
-    <lastmod>2023-06-27T16:31:14+08:00</lastmod>
+    <lastmod>2023-06-27T19:31:29+08:00</lastmod>
   </url><url>
     <loc>https://fred-meng.github.io/blog/</loc>
-    <lastmod>2023-06-27T16:31:14+08:00</lastmod>
+    <lastmod>2023-06-27T19:31:29+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -74,6 +68,63 @@
                 hreflang="zh-cn"
                 href="https://fred-meng.github.io/blog/"
                 />
+  </url><url>
+    <loc>https://fred-meng.github.io/blog/tags/continuous-improvement/</loc>
+    <lastmod>2023-06-27T18:39:17+08:00</lastmod>
+  </url><url>
+    <loc>https://fred-meng.github.io/blog/tags/gemba/</loc>
+    <lastmod>2023-06-27T18:39:17+08:00</lastmod>
+  </url><url>
+    <loc>https://fred-meng.github.io/blog/tags/go-see/</loc>
+    <lastmod>2023-06-27T18:39:17+08:00</lastmod>
+  </url><url>
+    <loc>https://fred-meng.github.io/blog/tags/kaizen/</loc>
+    <lastmod>2023-06-27T18:39:17+08:00</lastmod>
+  </url><url>
+    <loc>https://fred-meng.github.io/blog/tags/%E6%8C%81%E7%BB%AD%E6%94%B9%E8%BF%9B/</loc>
+    <lastmod>2023-06-27T18:39:17+08:00</lastmod>
+  </url><url>
+    <loc>https://fred-meng.github.io/blog/tags/%E6%94%B9%E5%96%84/</loc>
+    <lastmod>2023-06-27T18:39:17+08:00</lastmod>
+  </url><url>
+    <loc>https://fred-meng.github.io/blog/article/too-busy-no-agile/</loc>
+    <lastmod>2023-06-27T18:39:17+08:00</lastmod>
+  </url><url>
+    <loc>https://fred-meng.github.io/blog/tags/%E7%8E%B0%E5%9C%B0%E6%9F%A5%E7%9C%8B/</loc>
+    <lastmod>2023-06-27T18:39:17+08:00</lastmod>
+  </url><url>
+    <loc>https://fred-meng.github.io/blog/tags/agile/</loc>
+    <lastmod>2023-06-27T18:27:05+08:00</lastmod>
+  </url><url>
+    <loc>https://fred-meng.github.io/blog/tags/agile-coach/</loc>
+    <lastmod>2023-06-27T18:27:05+08:00</lastmod>
+  </url><url>
+    <loc>https://fred-meng.github.io/blog/tags/career/</loc>
+    <lastmod>2023-06-27T18:27:05+08:00</lastmod>
+  </url><url>
+    <loc>https://fred-meng.github.io/blog/tags/coach/</loc>
+    <lastmod>2023-06-27T18:27:05+08:00</lastmod>
+  </url><url>
+    <loc>https://fred-meng.github.io/blog/tags/%E5%8F%91%E5%B1%95%E8%B7%AF%E5%BE%84/</loc>
+    <lastmod>2023-06-27T18:27:05+08:00</lastmod>
+  </url><url>
+    <loc>https://fred-meng.github.io/blog/tags/%E6%95%99%E7%BB%83%E6%88%90%E9%95%BF/</loc>
+    <lastmod>2023-06-27T18:27:05+08:00</lastmod>
+  </url><url>
+    <loc>https://fred-meng.github.io/blog/tags/%E6%95%8F%E6%8D%B7%E6%95%99%E7%BB%83/</loc>
+    <lastmod>2023-06-27T18:27:05+08:00</lastmod>
+  </url><url>
+    <loc>https://fred-meng.github.io/blog/article/path-of-agilecoach/</loc>
+    <lastmod>2023-06-27T18:27:05+08:00</lastmod>
+  </url><url>
+    <loc>https://fred-meng.github.io/blog/tags/get-hands-dirty/</loc>
+    <lastmod>2023-06-27T16:31:14+08:00</lastmod>
+  </url><url>
+    <loc>https://fred-meng.github.io/blog/tags/practices/</loc>
+    <lastmod>2023-06-27T16:31:14+08:00</lastmod>
+  </url><url>
+    <loc>https://fred-meng.github.io/blog/article/refuse-new-practices/</loc>
+    <lastmod>2023-06-27T16:31:14+08:00</lastmod>
   </url><url>
     <loc>https://fred-meng.github.io/blog/tags/organization-transformation/</loc>
     <lastmod>2023-06-27T16:25:08+08:00</lastmod>
@@ -122,9 +173,6 @@
   </url><url>
     <loc>https://fred-meng.github.io/blog/categories/%E7%9F%A5%E8%AF%86%E7%A9%BA%E9%97%B4/</loc>
     <lastmod>2023-06-27T10:44:09+08:00</lastmod>
-  </url><url>
-    <loc>https://fred-meng.github.io/blog/tags/coach/</loc>
-    <lastmod>2023-06-27T10:31:25+08:00</lastmod>
   </url><url>
     <loc>https://fred-meng.github.io/blog/tags/dialouge/</loc>
     <lastmod>2023-06-27T10:31:25+08:00</lastmod>

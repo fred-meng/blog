@@ -1,11 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Articles on 梦想的缝隙 | The Gap of Dream</title>
+    <title>Articles on 梦想的缝隙s | The Gaps of Dream</title>
     <link>https://fred-meng.github.io/blog/article/</link>
-    <description>Recent content in Articles on 梦想的缝隙 | The Gap of Dream</description>
+    <description>Recent content in Articles on 梦想的缝隙s | The Gaps of Dream</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 27 Jun 2023 16:31:14 +0800</lastBuildDate><atom:link href="https://fred-meng.github.io/blog/article/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 Jun 2023 19:31:29 +0800</lastBuildDate><atom:link href="https://fred-meng.github.io/blog/article/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>&#34;从永生谈起，到底什么是对的&#34;的感悟</title>
+      <link>https://fred-meng.github.io/blog/article/forever-life/</link>
+      <pubDate>Tue, 27 Jun 2023 19:31:29 +0800</pubDate>
+      
+      <guid>https://fred-meng.github.io/blog/article/forever-life/</guid>
+      <description>一篇文章带来的感悟：从永生谈起，到底什么是对的 链接：从永生谈起，到底什么是对的 这篇文章让我产生了一些思考，也有了一些启发。 文章中的一些部分让</description>
+    </item>
+    
+    <item>
+      <title>我们实在是太忙了，没时间敏捷，怎么破？</title>
+      <link>https://fred-meng.github.io/blog/article/too-busy-no-agile/</link>
+      <pubDate>Tue, 27 Jun 2023 18:39:17 +0800</pubDate>
+      
+      <guid>https://fred-meng.github.io/blog/article/too-busy-no-agile/</guid>
+      <description>提问：“我们实在是太忙了，没时间敏捷”，怎么破？ 我的观点： 我见过太多的转型中心、PMO、质量中心、敏捷中心的大佬们，坐在办公室里讨论如何实施</description>
+    </item>
+    
+    <item>
+      <title>敏捷教练的职业发展路径一般有哪几种？</title>
+      <link>https://fred-meng.github.io/blog/article/path-of-agilecoach/</link>
+      <pubDate>Tue, 27 Jun 2023 18:27:05 +0800</pubDate>
+      
+      <guid>https://fred-meng.github.io/blog/article/path-of-agilecoach/</guid>
+      <description>提问：敏捷教练的职业发展路径一般有哪几种？ 我的观点： 每个人脚下都有很多条通往成功的道路。 要想找到通往成功的路径，你首先需要是一个实践者。 就像</description>
+    </item>
+    
     <item>
       <title>领导懂一点点敏捷的皮毛，就拒绝更多的敏捷实践，怎么办？</title>
       <link>https://fred-meng.github.io/blog/article/refuse-new-practices/</link>
