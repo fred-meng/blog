@@ -2,14 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://fred-meng.github.io/blog/article/forever-life/</loc>
-    <lastmod>2023-06-27T19:31:29+08:00</lastmod>
-  </url><url>
     <loc>https://fred-meng.github.io/blog/article/</loc>
-    <lastmod>2023-06-27T19:31:29+08:00</lastmod>
+    <lastmod>2023-06-27T22:02:07+08:00</lastmod>
   </url><url>
     <loc>https://fred-meng.github.io/blog/author/</loc>
-    <lastmod>2023-06-27T19:31:29+08:00</lastmod>
+    <lastmod>2023-06-27T22:02:07+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -22,7 +19,7 @@
                 />
   </url><url>
     <loc>https://fred-meng.github.io/blog/categories/</loc>
-    <lastmod>2023-06-27T19:31:29+08:00</lastmod>
+    <lastmod>2023-06-27T22:02:07+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -35,13 +32,19 @@
                 />
   </url><url>
     <loc>https://fred-meng.github.io/blog/author/fred-meng/</loc>
-    <lastmod>2023-06-27T19:31:29+08:00</lastmod>
+    <lastmod>2023-06-27T22:02:07+08:00</lastmod>
   </url><url>
-    <loc>https://fred-meng.github.io/blog/tags/life/</loc>
-    <lastmod>2023-06-27T19:31:29+08:00</lastmod>
+    <loc>https://fred-meng.github.io/blog/tags/ordered/</loc>
+    <lastmod>2023-06-27T22:02:07+08:00</lastmod>
+  </url><url>
+    <loc>https://fred-meng.github.io/blog/tags/requirements/</loc>
+    <lastmod>2023-06-27T22:02:07+08:00</lastmod>
+  </url><url>
+    <loc>https://fred-meng.github.io/blog/tags/split/</loc>
+    <lastmod>2023-06-27T22:02:07+08:00</lastmod>
   </url><url>
     <loc>https://fred-meng.github.io/blog/tags/</loc>
-    <lastmod>2023-06-27T19:31:29+08:00</lastmod>
+    <lastmod>2023-06-27T22:02:07+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -53,11 +56,14 @@
                 href="https://fred-meng.github.io/blog/tags/"
                 />
   </url><url>
+    <loc>https://fred-meng.github.io/blog/tags/%E6%8B%86%E5%88%86/</loc>
+    <lastmod>2023-06-27T22:02:07+08:00</lastmod>
+  </url><url>
     <loc>https://fred-meng.github.io/blog/categories/%E5%AF%B9%E8%AF%9D/</loc>
-    <lastmod>2023-06-27T19:31:29+08:00</lastmod>
+    <lastmod>2023-06-27T22:02:07+08:00</lastmod>
   </url><url>
     <loc>https://fred-meng.github.io/blog/</loc>
-    <lastmod>2023-06-27T19:31:29+08:00</lastmod>
+    <lastmod>2023-06-27T22:02:07+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -68,6 +74,45 @@
                 hreflang="zh-cn"
                 href="https://fred-meng.github.io/blog/"
                 />
+  </url><url>
+    <loc>https://fred-meng.github.io/blog/tags/%E6%8E%92%E5%BA%8F/</loc>
+    <lastmod>2023-06-27T22:02:07+08:00</lastmod>
+  </url><url>
+    <loc>https://fred-meng.github.io/blog/tags/%E9%9C%80%E6%B1%82/</loc>
+    <lastmod>2023-06-27T22:02:07+08:00</lastmod>
+  </url><url>
+    <loc>https://fred-meng.github.io/blog/tags/%E9%AA%8C%E6%94%B6%E6%9D%A1%E4%BB%B6/</loc>
+    <lastmod>2023-06-27T22:02:07+08:00</lastmod>
+  </url><url>
+    <loc>https://fred-meng.github.io/blog/article/requirement-split/</loc>
+    <lastmod>2023-06-27T22:02:07+08:00</lastmod>
+  </url><url>
+    <loc>https://fred-meng.github.io/blog/tags/displine/</loc>
+    <lastmod>2023-06-27T21:41:41+08:00</lastmod>
+  </url><url>
+    <loc>https://fred-meng.github.io/blog/tags/freedom/</loc>
+    <lastmod>2023-06-27T21:41:41+08:00</lastmod>
+  </url><url>
+    <loc>https://fred-meng.github.io/blog/tags/responsibility/</loc>
+    <lastmod>2023-06-27T21:41:41+08:00</lastmod>
+  </url><url>
+    <loc>https://fred-meng.github.io/blog/tags/%E7%BA%AA%E5%BE%8B/</loc>
+    <lastmod>2023-06-27T21:41:41+08:00</lastmod>
+  </url><url>
+    <loc>https://fred-meng.github.io/blog/article/displine-and-freedom/</loc>
+    <lastmod>2023-06-27T21:41:41+08:00</lastmod>
+  </url><url>
+    <loc>https://fred-meng.github.io/blog/tags/%E8%B4%A3%E4%BB%BB/</loc>
+    <lastmod>2023-06-27T21:41:41+08:00</lastmod>
+  </url><url>
+    <loc>https://fred-meng.github.io/blog/tags/%E8%87%AA%E7%94%B1/</loc>
+    <lastmod>2023-06-27T21:41:41+08:00</lastmod>
+  </url><url>
+    <loc>https://fred-meng.github.io/blog/article/forever-life/</loc>
+    <lastmod>2023-06-27T19:31:29+08:00</lastmod>
+  </url><url>
+    <loc>https://fred-meng.github.io/blog/tags/life/</loc>
+    <lastmod>2023-06-27T19:31:29+08:00</lastmod>
   </url><url>
     <loc>https://fred-meng.github.io/blog/tags/continuous-improvement/</loc>
     <lastmod>2023-06-27T18:39:17+08:00</lastmod>

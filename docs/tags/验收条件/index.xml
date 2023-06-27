@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>验收条件 on 梦想的缝隙s | The Gaps of Dream</title>
+    <link>https://fred-meng.github.io/blog/tags/%E9%AA%8C%E6%94%B6%E6%9D%A1%E4%BB%B6/</link>
+    <description>Recent content in 验收条件 on 梦想的缝隙s | The Gaps of Dream</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 27 Jun 2023 22:02:07 +0800</lastBuildDate><atom:link href="https://fred-meng.github.io/blog/tags/%E9%AA%8C%E6%94%B6%E6%9D%A1%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>业务人员认为300人天的大需求任务就是优先级高的，怎样说服继续拆分</title>
+      <link>https://fred-meng.github.io/blog/article/requirement-split/</link>
+      <pubDate>Tue, 27 Jun 2023 22:02:07 +0800</pubDate>
+      
+      <guid>https://fred-meng.github.io/blog/article/requirement-split/</guid>
+      <description>提问：业务人员认为300人天的大需求任务就是优先级高的，怎样说服继续拆分，拆分后又要继续进行排序 我的观点： 请他把这300人天的需求的验收条件</description>
+    </item>
+    
+  </channel>
+</rss>
