@@ -3,10 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://fred-meng.github.io/blog/article/</loc>
-    <lastmod>2023-07-07T15:13:49+08:00</lastmod>
+    <lastmod>2023-07-07T23:06:13+08:00</lastmod>
   </url><url>
     <loc>https://fred-meng.github.io/blog/author/</loc>
-    <lastmod>2023-07-07T15:13:49+08:00</lastmod>
+    <lastmod>2023-07-07T23:06:13+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -19,7 +19,7 @@
                 />
   </url><url>
     <loc>https://fred-meng.github.io/blog/categories/</loc>
-    <lastmod>2023-07-07T15:13:49+08:00</lastmod>
+    <lastmod>2023-07-07T23:06:13+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -32,16 +32,16 @@
                 />
   </url><url>
     <loc>https://fred-meng.github.io/blog/tags/coach/</loc>
-    <lastmod>2023-07-07T15:13:49+08:00</lastmod>
+    <lastmod>2023-07-07T23:06:13+08:00</lastmod>
   </url><url>
     <loc>https://fred-meng.github.io/blog/author/fred-meng/</loc>
-    <lastmod>2023-07-07T15:13:49+08:00</lastmod>
+    <lastmod>2023-07-07T23:06:13+08:00</lastmod>
   </url><url>
     <loc>https://fred-meng.github.io/blog/tags/psychology/</loc>
-    <lastmod>2023-07-07T15:13:49+08:00</lastmod>
+    <lastmod>2023-07-07T23:06:13+08:00</lastmod>
   </url><url>
     <loc>https://fred-meng.github.io/blog/tags/</loc>
-    <lastmod>2023-07-07T15:13:49+08:00</lastmod>
+    <lastmod>2023-07-07T23:06:13+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -53,11 +53,14 @@
                 href="https://fred-meng.github.io/blog/tags/"
                 />
   </url><url>
+    <loc>https://fred-meng.github.io/blog/article/barnum-effect/</loc>
+    <lastmod>2023-07-07T23:06:13+08:00</lastmod>
+  </url><url>
     <loc>https://fred-meng.github.io/blog/categories/%E6%AF%8F%E5%A4%A9%E4%B8%80%E4%B8%AA%E5%BF%83%E5%BE%8B/</loc>
-    <lastmod>2023-07-07T15:13:49+08:00</lastmod>
+    <lastmod>2023-07-07T23:06:13+08:00</lastmod>
   </url><url>
     <loc>https://fred-meng.github.io/blog/</loc>
-    <lastmod>2023-07-07T15:13:49+08:00</lastmod>
+    <lastmod>2023-07-07T23:06:13+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -69,10 +72,10 @@
                 href="https://fred-meng.github.io/blog/"
                 />
   </url><url>
-    <loc>https://fred-meng.github.io/blog/article/law-of-attraction/</loc>
-    <lastmod>2023-07-07T15:13:49+08:00</lastmod>
-  </url><url>
     <loc>https://fred-meng.github.io/blog/tags/%E5%BF%83%E7%90%86%E5%AD%A6%E5%AE%9A%E5%BE%8B/</loc>
+    <lastmod>2023-07-07T23:06:13+08:00</lastmod>
+  </url><url>
+    <loc>https://fred-meng.github.io/blog/article/law-of-attraction/</loc>
     <lastmod>2023-07-07T15:13:49+08:00</lastmod>
   </url><url>
     <loc>https://fred-meng.github.io/blog/article/murphy-law/</loc>
