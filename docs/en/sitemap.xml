@@ -2,64 +2,64 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://fred-meng.github.io/blog/en/author/</loc>
+    <loc>https://blog.insight.xin/en/author/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://fred-meng.github.io/blog/author/"
+                href="https://blog.insight.xin/author/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://fred-meng.github.io/blog/en/author/"
+                href="https://blog.insight.xin/en/author/"
                 />
   </url><url>
-    <loc>https://fred-meng.github.io/blog/en/categories/</loc>
+    <loc>https://blog.insight.xin/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://fred-meng.github.io/blog/categories/"
+                href="https://blog.insight.xin/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://fred-meng.github.io/blog/en/categories/"
+                href="https://blog.insight.xin/en/categories/"
                 />
   </url><url>
-    <loc>https://fred-meng.github.io/blog/en/series/</loc>
+    <loc>https://blog.insight.xin/en/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://fred-meng.github.io/blog/series/"
+                href="https://blog.insight.xin/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://fred-meng.github.io/blog/en/series/"
+                href="https://blog.insight.xin/en/series/"
                 />
   </url><url>
-    <loc>https://fred-meng.github.io/blog/en/tags/</loc>
+    <loc>https://blog.insight.xin/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://fred-meng.github.io/blog/tags/"
+                href="https://blog.insight.xin/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://fred-meng.github.io/blog/en/tags/"
+                href="https://blog.insight.xin/en/tags/"
                 />
   </url><url>
-    <loc>https://fred-meng.github.io/blog/en/</loc>
+    <loc>https://blog.insight.xin/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://fred-meng.github.io/blog/"
+                href="https://blog.insight.xin/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://fred-meng.github.io/blog/en/"
+                href="https://blog.insight.xin/en/"
                 />
   </url>
 </urlset>
